@@ -1,0 +1,3 @@
+/home/xzf/code/gitroom/learnCmake/D-shared-library/build/CMakeFiles/rebuild_cache.dir
+/home/xzf/code/gitroom/learnCmake/D-shared-library/build/CMakeFiles/edit_cache.dir
+/home/xzf/code/gitroom/learnCmake/D-shared-library/build/CMakeFiles/hello.dir
